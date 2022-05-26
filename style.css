@@ -127,7 +127,7 @@ p{
 
     form{
         max-width: 550px;
-        height: 42vh;
+        min-height: 300px;
     }
 
     /*Typeography*/
