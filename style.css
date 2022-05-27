@@ -103,7 +103,7 @@ p{
     .container{
         display: flex;
         flex-direction: row;
-        margin-top: 10em;
+        margin-top: 5em;
         padding: 0 5em;
         min-width: 972px;
         gap: 1em;
